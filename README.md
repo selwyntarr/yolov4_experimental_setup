@@ -1,4 +1,4 @@
-# YOLOv4 Experimental Setup
+# YOLOv4 Vehicle Detection and Classification Model
 
 Developed as a partial requirement for the course:
 CPE020 - Methods of Research
